@@ -140,7 +140,8 @@ def calc_Mueller_matrix (N, Euler_angles, D, Ni, Nt, Theta, wavelenths, device, 
 
 ## Citation
 If you use the code from this repository for your projects, please cite the following:
-[TFSolver: A numerical Python toolkit for parallel electromagnetic calculation of planar multilayer thin films at multi-wavelength and multi-angle](https://arxiv.org/abs/),
+
+TFSolver: A numerical Python toolkit for parallel electromagnetic calculation of planar multilayer thin films at multi-wavelength and multi-angle,
 Xiuguo Chen, 2025.
 Available at: [GitHub repository link](https://github.com/xiuguochen/tfsolver).
 
